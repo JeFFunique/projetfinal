@@ -11,7 +11,9 @@ import 'api.dart' ;
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'gamerank.dart';
-
+/* droits d'authentification à base firebase:
+user: kayzenpro935@gmail.com
+mdp: apexjeffpgm2002*/
 
 
 
